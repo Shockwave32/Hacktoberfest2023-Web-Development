@@ -1,6 +1,7 @@
 import React from 'react'
 
 export default function Footer() {
+
   return (
     <>
       <div className="bg-[#07060E] px-4 py-20">
@@ -56,7 +57,7 @@ export default function Footer() {
             <div className='text-xs text-[#FEFEFE66] flex flex-col text-center md:flex-row'>
                 <a href="#" className='lg:mx-8 md:mx-2 md:mb-0 mb-2'>Privacy Policy</a>
                 <a href="#" className='lg:mx-8 md:mx-2 md:mb-0 mb-2'>Terms of Use</a>
-                <a href="#" className='lg:mx-8 md:mx-2 md:mb-0 mb-2'>© ACM-JEC 2022 - All rights reserved</a>
+                <a href="#" className='lg:mx-8 md:mx-2 md:mb-0 mb-2'>© ACM-JEC 2024 - All rights reserved</a>
             </div>
         </div>
 
